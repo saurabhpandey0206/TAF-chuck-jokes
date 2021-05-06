@@ -5,3 +5,4 @@ import app
 def test_setup():
     pytest.chuck_jokes = app.ChuckNorris()
     yield
+
